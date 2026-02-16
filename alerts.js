@@ -83,4 +83,4 @@ function showMarkets() {
   });
 }
 
-module.exports = { createAlert, listAlerts, checkAlerts, clearAlerts, showMarkets };
+module.exports = { createAlert, listAlerts, checkAlerts, clearAlerts, showMarkets, loadAlerts, MOCK_PRICES };
